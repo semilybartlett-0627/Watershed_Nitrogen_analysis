@@ -15,8 +15,3 @@ The goal of this project was to:
 ## Dataset
 
 The dataset was too big to upload, so just a version of the cleaned data from the process was uploaded.
-
-
-Emily Bartlett
-Wildlife Science (B.S. expected December)
-Interested in environmental data analysis and conservation project management.
